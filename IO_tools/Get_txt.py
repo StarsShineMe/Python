@@ -51,7 +51,7 @@ def on_click(x, y, button, pressed):
         if len(click_positions) == 2:
             ocr_again = True
             if_press = False
-
+# 1
 
 def on_key_release():
     global if_press
