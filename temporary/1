@@ -1,0 +1,2 @@
+import sys
+sys.path.append('C:/tx3/Scripting tools2.0/source')  # 将 b 文件夹添加到模块搜索路径中
